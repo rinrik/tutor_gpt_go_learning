@@ -18,5 +18,4 @@ func main() {
 	for _, f := range fileTexts {
 		fmt.Println(string(f))
 	}
-	// fmt.Println(fileTexts)
 }
