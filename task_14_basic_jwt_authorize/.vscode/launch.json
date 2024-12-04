@@ -1,0 +1,12 @@
+{
+        "configurations": [
+                {
+                        "type": "go",
+                        "name": "debug main.go",
+                        "request": "launch",
+                        "mode": "auto",
+                        "args": [],
+                        "program": "/Users/rinat.khissamov/Desktop/tutor_gpt_learning/task_14_basic_jwt_authorize/main.go"
+                }
+        ]
+}

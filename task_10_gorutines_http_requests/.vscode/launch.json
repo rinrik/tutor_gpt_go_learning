@@ -1,0 +1,13 @@
+{
+        "configurations": [
+                {
+                        "type": "go",
+                        "name": "debug main.go",
+                        "request": "launch",
+                        "mode": "auto",
+                        "console": "integratedTerminal",
+                        "args": [ ],
+                        "program": "/Users/rinat.khissamov/Desktop/tutor_gpt_learning/task_10_gorutines_http_requests/main.go"
+                }
+        ]
+}
